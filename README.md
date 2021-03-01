@@ -1,0 +1,2 @@
+# Drowsiness-Detection-on-Pilots
+A project which helps to monitor the Pilots on a plane. An alert will be send to the Authorities if the pilot fell asleep. An embedded system will be used to fetch the temperature values, etc and pass through the MQTT. The fetched values are displayed in the window along with the Video of the Pilot driving. Any changes in the arm positions will be notified to the authorities as email. 
